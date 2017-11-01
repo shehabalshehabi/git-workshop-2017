@@ -2,3 +2,9 @@ There once was a guy
 A very cool and fun guy
 (Ben just saying hi)
 I CHANGED IT
+
+Ben’s haiku but with every word replaced with git:
+git git git git git
+git git git git git git
+git git git git
+git git git
